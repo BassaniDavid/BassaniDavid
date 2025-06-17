@@ -1,4 +1,4 @@
-# Benvenuto!
+# Benvenuto sul mio profilo di github!
 
 Sono bassani David, un junior full-stack developer
 
@@ -15,6 +15,6 @@ Sono bassani David, un junior full-stack developer
 
 ## Contatti
 
-- **Email**: ilmioindirizzoemail@example.com
+- **Email**: davbassan98@gmail.com
 - **LinkedIn**: [Il mio profilo LinkedIn](https://www.linkedin.com/in/ilmioaccount/)
 - **Indeed**: [Il mio profilo Indeed](https://www.indeed.com/ilmioaccount)
