@@ -1,6 +1,6 @@
 # Benvenuto sul mio profilo di github!
 
-Sono bassani David, un junior full-stack developer
+## Sono Bassani David, un junior full-stack developer
 
 ### Linguaggi e strumenti che conosco:
 
