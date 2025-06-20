@@ -8,10 +8,10 @@
 - CSS
 - Bootstrap
 - JavaScript
-- Node.js
-- Express.js
+- Node.js/Express.js
 - MySQL
 - PHP
+- Laravel
 
 ## Contatti
 
