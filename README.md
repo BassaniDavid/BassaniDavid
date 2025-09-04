@@ -28,11 +28,11 @@ Sono un junior full-stack developer italiano di 27 anni con una forte passione p
 
 ### 📈 Statistiche GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassaniDavid&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassaniDavid&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassaniDavid&show_icons=true&theme=dark)
+
 
 ---
 
