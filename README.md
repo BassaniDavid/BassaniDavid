@@ -16,5 +16,4 @@
 ## Contatti
 
 - **Email**: davbassan98@gmail.com
-- **LinkedIn**: [Il mio profilo LinkedIn](https://www.linkedin.com/in/ilmioaccount/)
-- **Indeed**: [Il mio profilo Indeed](https://www.indeed.com/ilmioaccount)
+- **LinkedIn**: [Il mio profilo LinkedIn](www.linkedin.com/in/david-bassani)
