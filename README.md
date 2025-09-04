@@ -55,7 +55,7 @@ Attualmente sto studiando più a fondo CSS. Dopodiché mi concentrerò su SASS e
 
 ### ✉️ Contattami
 
-Sono sempre aperto a nuove collaborazioni e opportunità professionali. Non esitare a contattarmi!
+Sono sempre aperto a nuove  opportunità professionali. Non esitare a contattarmi!
 
 * **Email**: davbassan98@gmail.com
 * **LinkedIn**: [Il mio profilo LinkedIn](https://www.linkedin.com/in/david-bassani)
