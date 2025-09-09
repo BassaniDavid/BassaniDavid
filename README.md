@@ -49,7 +49,7 @@ Sono un junior full-stack developer italiano di 27 anni con una forte passione p
 
 ### 🚀 Cosa sto facendo attualmente
 
-Attualmente sto studiando più a fondo CSS. Dopodiché mi concentrerò su SASS e GSAP.
+Ho appena iniziato a lavorare sul progetto [Japan Travel Reimagined](https://github.com/BassaniDavid/Japan-Travel-Reimagined) che è una rielaborazione concettuale e tecnica del sito web ufficiale del turismo in Giappone [japan.travel](https://www.japan.travel/it/it/) .
 
 ---
 
